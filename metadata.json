@@ -1,0 +1,6 @@
+{
+  "name": "Bonjour Simple",
+  "description": "Un site simple qui affiche le mot BONJOUR.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
